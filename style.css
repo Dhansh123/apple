@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    font-family: Roboto;
+    border :border-box;
+}
+.border{
+    border: 1.5px solid transparent;
+
+}
+
+.border:hover{
+    border-bottom: 1.5px solid white;
+}
+
+.nav-bar{
+    font-size: 1rem;
+    background-color: #161617CC;
+    height: 40px;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: rgb(222, 211, 211);
+    
+    
+
+}
+
+.icon{
+    font-size: 30px;
+    margin-left: 50px;
+
+}
+.emoji{
+    margin-right: 50px;
+}
+
+.second{
+font-size: 0.7rem;
+  height:20px;
+  margin-left: 400px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.mainsection{
+background-image: url("air.jpg");
+height: 500px;
+background-size: cover;
+margin-bottom: 10px;
+}
+.first{
+    display: flex;
+    align-items: center;
+    height: 100px;
+}
+h1{
+    margin-left: 40px;
+    font-size:3rem;
+   
+}
+
+.main2{
+    background-image: url("iphone.jpg");
+height: 500px;
+background-size: cover;
+margin-bottom: 10px;
+
+}
+
+.head{
+    color: white;
+    margin-left: 420px;
+}
+.mid{
+    color: white;
+    margin-left: 550px;
+}
+.last{
+    
+    color: white;
+}
+.buy{
+    margin-left: 10px;
+}
+footer{
+    height: 100px;
+    background-color: rgb(143, 139, 139);
+}
+.con{
+    font-size:10px;
+    color:rgb(79, 73, 73);
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 20px;
+}
